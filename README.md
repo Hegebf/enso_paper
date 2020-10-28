@@ -1,4 +1,6 @@
-# Code used for the paper "How Does El Niño Southern Oscillation Change Under Global Warming ‐ A First Look at CMIP6" available at https://doi.org/10.1029/2020GL090640
+# Code used for the paper: How Does El Niño Southern Oscillation Change Under Global Warming ‐ A First Look at CMIP6
+
+The paper is available at: https://doi.org/10.1029/2020GL090640
 
 This project was started using [the template](https://github.com/cmip6hack/project-template) for the [CMIP6 Hackathon](https://cmip6hack.github.io/#/).
 
